@@ -1,5 +1,5 @@
-#Numpy Exercises.
+Numpy Exercises.
 
-#Watch YouTube
+Watch YouTube
 
-#https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
+https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK
